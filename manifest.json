@@ -1,0 +1,15 @@
+{
+  "name": "Reddit-Hidebar",
+  "version": "1",
+  "description": "Hide the Reddit Sidebar when screen dimensions shrink",
+  "manifest_version": 2,
+  "browser_action": {
+    "name": "Reddit-Hidebar",
+    "icons": ["icon.png"],
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [ {
+    "js": [ "jquery.min.js","content.js" ],
+    "matches": [ "http://*.reddit.com/*", "https://*.reddit.com/*"]
+  }]
+}
