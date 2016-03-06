@@ -1,10 +1,10 @@
 {
-  "name": "Reddit-Hidebar",
+  "name": "Hidebar",
   "version": "1",
   "description": "Hide the Reddit Sidebar when screen dimensions shrink",
   "manifest_version": 2,
   "browser_action": {
-    "name": "Reddit-Hidebar",
+    "name": "Hidebar",
     "icons": ["icon.png"],
     "default_icon": "icon.png"
   },
