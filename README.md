@@ -1,10 +1,8 @@
 #Reddit-Hidebar
 
-##Hides reddit sidebar when it covers up content.
+Hides reddit sidebar when it covers up content.
 
-##Simon Warchol
-
-##5 March 2016
+Created By Simon Warchol
 
 
 Tired of videos being covered up by the sidebar when you browse reddit in the split-screen?
