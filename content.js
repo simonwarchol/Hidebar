@@ -1,6 +1,6 @@
 // Reddit-HideBar
 // Simon Warchol
-// 3 March 2016
+// 5 March 2016
 // Hides the reddit sidebar when the window width is less than 73% of 
 // screen width
 
