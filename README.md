@@ -6,8 +6,8 @@ Simon Warchol
 
 Tired of videos being covered up by the sidebar when you browse reddit in the split-screen?
 
-![alt tag](https://raw.githubusercontent.com/simonwarchol/Reddit-Hidebar/img/before.png)
+![alt tag](https://raw.githubusercontent.com/simonwarchol/Reddit-Hidebar/maseter/img/before.png)
 
 This lightweight Javascript Chrome extension hides the sidebar when you decrease the width of your window so that you can now watch videos.
 
-![alt tag](https://raw.githubusercontent.com/simonwarchol/Reddit-Hidebar/img/before.png)
+![alt tag](https://raw.githubusercontent.com/simonwarchol/Reddit-Hidebar/master/img/before.png)
