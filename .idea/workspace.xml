@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43aa5d0-b939-457a-a019-a007d9c2c95c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hidebar/content.js" afterPath="$PROJECT_DIR$/Hidebar/content.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hidebar/manifest.json" afterPath="$PROJECT_DIR$/Hidebar/manifest.json" />
     </list>
     <ignored path="Reddit-Hidebar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,14 +39,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="content.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hidebar/content.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45454547">
+            <state vertical-scroll-proportion="0.0">
               <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="71" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hidebar/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.056179777">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,6 +76,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/Hidebar/content.js" />
+        <option value="$PROJECT_DIR$/Hidebar/manifest.json" />
       </list>
     </option>
   </component>
@@ -291,11 +301,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hidebar/content.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45454547">
+        <state vertical-scroll-proportion="0.0">
           <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="71" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hidebar/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.056179777">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
