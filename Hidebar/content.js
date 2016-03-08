@@ -25,6 +25,9 @@ function HideSidebar() {
         if (($('#siteTable_t3_495ki6').length)) {
             $('#siteTable_t3_495ki6').attr('style', 'margin-right: 10px !important;')
         }
+        if($('.sitetable.nestedlisting').length) {
+            $('.sitetable.nestedlisting').attr('style', 'margin-right: 10px !important;')
+        }
         if ($('.commentarea').length) {
             $('.commentarea').attr('style', 'margin-right: 10px !important;')
         }
@@ -63,6 +66,9 @@ function HideSidebar() {
         }
         if (($('#siteTable_t3_495ki6').length)) {
             $('#siteTable_t3_495ki6').attr('style', '')
+        }
+        if($('.sitetable.nestedlisting').length) {
+            $('.sitetable.nestedlisting').attr('style', '')
         }
         if ($('.commentarea').length) {
             $('.commentarea').attr('style', '')
