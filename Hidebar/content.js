@@ -34,6 +34,10 @@ function HideSidebar() {
         if (url.match("/r/fantasyfootball") || url.match("/r/movies")) {
             $('.logout.hover').hide()
         }
+        if (url.match("/r/baseball")) {
+            $('.link').attr('style', 'margin-right: 10px !important;')
+        }
+
         if (url.match("/r/explainlikeimfive")) {
             $('.thing').attr('style', 'margin-right: 10px !important;')
         }
@@ -75,6 +79,9 @@ function HideSidebar() {
         }
         if (url.match("/r/fantasyfootball") || url.match("/r/movies")) {
             $('.logout.hover').show()
+        }
+        if (url.match("/r/baseball")) {
+            $('.link').attr('style', '')
         }
         if (url.match("/r/explainlikeimfive")) {
             $('.thing').attr('style', '')
